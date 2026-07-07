@@ -1,0 +1,37 @@
+# 高项复习RAG系统 - Python依赖
+# 环境：D:\Anonymous\.venv（Python 3.12，GPU 加速）
+# 激活：D:\Anonymous\.venv\Scripts\activate (CMD) 或 source D:/Anonymous/.venv/Scripts/activate (Git Bash)
+#
+# ⚠️ 注意：paddlepaddle-gpu 需提前安装 CUDA 12.x + cuDNN 9.x
+# 安装 GPU 版：pip install paddlepaddle-gpu==3.2.2 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+# 安装 paddleocr/paddlex：pip install paddleocr==3.4.0 paddlex==3.4.2
+# docling/ocrmypdf 已废弃，不再使用
+
+# ─── PP-StructureV3 核心（PDF→Markdown OCR 流水线）───────────────────────
+paddlepaddle-gpu==3.2.2       # GPU 推理引擎（RTX 3070，CUDA 12.6）
+paddleocr==3.4.0              # OCR 主库（含 PP-StructureV3 pipeline）
+paddlex==3.4.2                # PaddlePaddle 扩展套件（pipeline 工具集）
+
+# ─── 图像 / PDF 处理 ──────────────────────────────────────────────────────
+PyMuPDF==1.27.2.2             # PDF 操作：split_textbook.py / check_ocr_need.py / preprocess
+opencv-python==4.13.0.92      # 图像处理（PP-StructureV3 前置）
+opencv-contrib-python==4.10.0.84  # 额外 OpenCV 模块
+Pillow==12.1.0                # 图像读写
+
+# ─── 数值 / 文本处理 ──────────────────────────────────────────────────────
+numpy==2.4.1                  # 数值计算
+regex==2026.2.28              # 高级正则（slice_and_tag.py 分块规则）
+PyYAML==6.0.2                 # YAML front matter（slice_and_tag.py / postprocess_chunks.py）
+
+# ─── RAGFlow API 上传 ─────────────────────────────────────────────────────
+requests==2.32.5              # HTTP 请求（upload_to_ragflow.py / dialog API）
+
+# ─── 进度 / 工具 ──────────────────────────────────────────────────────────
+tqdm==4.67.3                  # 进度条
+
+# ─── 以下为 D:\Anonymous\.venv 中存在、但脚本当前不直接依赖的包 ────────────
+# 若需运行 quality_check.py 或扩展功能，可视需要安装：
+# pandas              # 批量统计
+# scikit-learn        # 文本分类（未来功能）
+# beautifulsoup4      # HTML 解析（postprocess 中的 table 处理）
+# lxml                # HTML/XML 解析

@@ -1,0 +1,21 @@
+{
+  "_comment": "Demo 专用文件名→知识域映射。供 slice_and_tag.py 使用。",
+
+  "1.考生模拟练习平台操作指南": {
+    "domain": "kb_demo_exam_guide",
+    "chapter": "机考操作指南",
+    "source_type": "official"
+  },
+
+  "2.考生常见操作说明": {
+    "domain": "kb_demo_exam_guide",
+    "chapter": "考生常见操作说明",
+    "source_type": "official"
+  },
+
+  "3.软考模拟练习平台常见问题": {
+    "domain": "kb_demo_faq",
+    "chapter": "模拟练习平台常见问题",
+    "source_type": "official"
+  }
+}

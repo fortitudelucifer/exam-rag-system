@@ -1,0 +1,386 @@
+{
+  "_comment": "章节PPT文件名(不含.pdf) → 知识域映射。供 batch_docling.py 和 slice_and_tag.py 使用。",
+
+  "【26年5月】第1章-信息化发展": {
+    "domain": "kb_informatization",
+    "chapter": "第1章 信息化发展",
+    "source_type": "lecture"
+  },
+  "【26年5月】第2章-信息技术发展": {
+    "domain": "kb_informatization",
+    "chapter": "第2章 信息技术发展",
+    "source_type": "lecture"
+  },
+  "【26年5月】第3章-信息系统治理": {
+    "domain": "kb_informatization",
+    "chapter": "第3章 信息系统治理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第4章-信息系统管理": {
+    "domain": "kb_informatization",
+    "chapter": "第4章 信息系统管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第5章-信息系统工程": {
+    "domain": "kb_informatization",
+    "chapter": "第5章 信息系统工程",
+    "source_type": "lecture"
+  },
+  "【26年5月】第6章-项目管理概述": {
+    "domain": "kb_integration",
+    "chapter": "第6章 项目管理概述",
+    "source_type": "lecture"
+  },
+  "【26年5月】第7章-项目立项管理": {
+    "domain": "kb_integration",
+    "chapter": "第7章 项目立项管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第8章-项目整合管理": {
+    "domain": "kb_integration",
+    "chapter": "第8章 项目整合管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第9章-项目范围管理": {
+    "domain": "kb_scope_quality",
+    "chapter": "第9章 项目范围管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第10章-项目进度管理": {
+    "domain": "kb_schedule",
+    "chapter": "第10章 项目进度管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第11章-项目成本管理": {
+    "domain": "kb_cost",
+    "chapter": "第11章 项目成本管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第12章-项目质量管理": {
+    "domain": "kb_scope_quality",
+    "chapter": "第12章 项目质量管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第13章-项目资源管理": {
+    "domain": "kb_resource_comm_stakeholder",
+    "chapter": "第13章 项目资源管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第14章-项目沟通管理": {
+    "domain": "kb_resource_comm_stakeholder",
+    "chapter": "第14章 项目沟通管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第15章-项目风险管理": {
+    "domain": "kb_risk",
+    "chapter": "第15章 项目风险管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第16章-项目采购管理": {
+    "domain": "kb_procurement",
+    "chapter": "第16章 项目采购管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第17章-项目干系人管理": {
+    "domain": "kb_resource_comm_stakeholder",
+    "chapter": "第17章 项目干系人管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第18章-项目绩效域": {
+    "domain": "kb_integration",
+    "chapter": "第18章 项目绩效域",
+    "source_type": "lecture"
+  },
+  "【26年5月】第19章-配置与变更管理": {
+    "domain": "kb_integration",
+    "chapter": "第19章 配置与变更管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第20章-高级项目管理": {
+    "domain": "kb_integration",
+    "chapter": "第20章 高级项目管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第21章-项目管理科学基础": {
+    "domain": "kb_calculation",
+    "chapter": "第21章 项目管理科学基础",
+    "source_type": "lecture"
+  },
+  "【26年5月】第22章-组织通用治理": {
+    "domain": "kb_integration",
+    "chapter": "第22章 组织通用治理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第23章-组织通用管理": {
+    "domain": "kb_integration",
+    "chapter": "第23章 组织通用管理",
+    "source_type": "lecture"
+  },
+  "【26年5月】第24章-法律法规与标准规范": {
+    "domain": "kb_integration",
+    "chapter": "第24章 法律法规与标准规范",
+    "source_type": "lecture"
+  },
+
+  "【26年5月】01-计算专题-三点估算、决策树、EMV、沟通渠道、加权系统相关计算题": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-三点估算决策树EMV",
+    "source_type": "lecture"
+  },
+  "【26年5月】02-计算专题-工程经济学": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-工程经济学",
+    "source_type": "lecture"
+  },
+  "【26年5月】03-计算专题-运筹学（1）（对应-第21章 项目管理科学基础-21.2 运筹学）": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-运筹学1",
+    "source_type": "lecture"
+  },
+  "【26年5月】04-计算专题-运筹学（2）（对应-第21章 项目管理科学基础-21.2 运筹学）": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-运筹学2",
+    "source_type": "lecture"
+  },
+  "【26年5月】05-计算专题-进度类-选择题": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-进度类选择题",
+    "source_type": "lecture"
+  },
+  "【26年5月】06-计算专题-进度类计算题-案例分析": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-进度类案例分析",
+    "source_type": "lecture"
+  },
+  "【26年5月】07-计算专题-进度类计算题-时标网络图": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-进度类时标网络图",
+    "source_type": "lecture"
+  },
+  "【26年5月】08-计算专题-成本类计算题-选择题": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-成本类选择题",
+    "source_type": "lecture"
+  },
+  "【26年5月】09-计算专题-成本类计算题-案例分析": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-成本类案例分析",
+    "source_type": "lecture"
+  },
+  "【26年5月】10-计算专题-成本和进度类计算题-案例分析": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-成本进度综合案例",
+    "source_type": "lecture"
+  },
+  "【26年5月】11-计算专题-进度和成本+运筹学-案例分析": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-进度成本运筹学案例",
+    "source_type": "lecture"
+  },
+  "【26年5月】12-计算专题-合同类计算题": {
+    "domain": "kb_calculation",
+    "chapter": "计算专题-合同类计算",
+    "source_type": "lecture"
+  },
+
+  "01.高项《综合知识》一本通": {
+    "domain": "kb_integration",
+    "chapter": "综合知识一本通",
+    "source_type": "reference_book"
+  },
+  "02.高项《计算案例背诵》一本通": {
+    "domain": "kb_calculation",
+    "chapter": "计算案例背诵一本通",
+    "source_type": "reference_book"
+  },
+  "03.高项《论文写作》一本通": {
+    "domain": "kb_essay",
+    "chapter": "论文写作一本通",
+    "source_type": "reference_book"
+  },
+  "04.高项《章节分类练习与解析》": {
+    "domain": "kb_integration",
+    "chapter": "章节分类练习与解析",
+    "source_type": "exercise"
+  },
+
+  "信息系统项目管理师教材-第四版": {
+    "domain": "kb_textbook",
+    "chapter": "信息系统项目管理师教材第四版",
+    "source_type": "textbook"
+  },
+
+  "【26年5月】01-案例分析问答题": {
+    "domain": "kb_case_analysis",
+    "chapter": "案例分析问答题",
+    "source_type": "lecture"
+  },
+  "【26年5月】02-05 案例分析理论题必背内容_来自计算案例背诵一本通": {
+    "domain": "kb_case_analysis",
+    "chapter": "案例分析理论题必背",
+    "source_type": "lecture"
+  },
+  "【26年5月】06-案例分析中常见找错问题1": {
+    "domain": "kb_case_analysis",
+    "chapter": "案例分析常见找错问题1",
+    "source_type": "lecture"
+  },
+  "【26年5月】07-案例分析中常见找错问题2": {
+    "domain": "kb_case_analysis",
+    "chapter": "案例分析常见找错问题2",
+    "source_type": "lecture"
+  },
+  "案例分析中常见找错问题_参考答案_来自计算案例背诵一本通": {
+    "domain": "kb_case_analysis",
+    "chapter": "案例分析找错参考答案",
+    "source_type": "lecture"
+  },
+
+  "01-案例分析历年真题2015": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2015",
+    "source_type": "past_paper"
+  },
+  "02-案例分析历年真题2016": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2016",
+    "source_type": "past_paper"
+  },
+  "03-案例分析历年真题2017": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2017",
+    "source_type": "past_paper"
+  },
+  "04-案例分析历年真题2018": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2018",
+    "source_type": "past_paper"
+  },
+  "05-案例分析历年真题2019": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2019",
+    "source_type": "past_paper"
+  },
+  "06-案例分析历年真题2020": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2020",
+    "source_type": "past_paper"
+  },
+  "07-案例分析历年真题2021": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2021",
+    "source_type": "past_paper"
+  },
+  "08-案例分析历年真题2022": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2022",
+    "source_type": "past_paper"
+  },
+  "09-案例分析历年真题2023": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2023",
+    "source_type": "past_paper"
+  },
+  "10-案例分析历年真题2024": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2024",
+    "source_type": "past_paper"
+  },
+  "11-案例分析历年真题2025": {
+    "domain": "kb_case_history",
+    "chapter": "案例分析历年真题2025",
+    "source_type": "past_paper"
+  },
+
+  "2023年上半年案例分析【有答案版】": {
+    "domain": "papers_2023",
+    "chapter": "2023上半年案例分析",
+    "source_type": "past_paper"
+  },
+  "2023年下半年案例分析（第1批）": {
+    "domain": "papers_2023",
+    "chapter": "2023下半年案例分析第1批",
+    "source_type": "past_paper"
+  },
+  "2023年下半年案例分析（第2批）": {
+    "domain": "papers_2023",
+    "chapter": "2023下半年案例分析第2批",
+    "source_type": "past_paper"
+  },
+  "2023年下半年案例分析（第3批）": {
+    "domain": "papers_2023",
+    "chapter": "2023下半年案例分析第3批",
+    "source_type": "past_paper"
+  },
+  "2023年下半年案例分析（第4批）": {
+    "domain": "papers_2023",
+    "chapter": "2023下半年案例分析第4批",
+    "source_type": "past_paper"
+  },
+  "2024年上半年案例分析（第1批）【有答案版】": {
+    "domain": "papers_2024",
+    "chapter": "2024上半年案例分析第1批",
+    "source_type": "past_paper"
+  },
+  "2024年上半年案例分析（第2批）【有答案版】": {
+    "domain": "papers_2024",
+    "chapter": "2024上半年案例分析第2批",
+    "source_type": "past_paper"
+  },
+  "2025年上半年案例分析（第1批）【有答案版】": {
+    "domain": "papers_2025",
+    "chapter": "2025上半年案例分析第1批",
+    "source_type": "past_paper"
+  },
+  "2025年上半年案例分析（第2批）【有答案版】": {
+    "domain": "papers_2025",
+    "chapter": "2025上半年案例分析第2批",
+    "source_type": "past_paper"
+  },
+
+  "2023年上半年论文写作试题": {
+    "domain": "kb_essay",
+    "chapter": "2023上半年论文写作",
+    "source_type": "essay"
+  },
+  "2023年下半年论文写作试题（第1批）": {
+    "domain": "kb_essay",
+    "chapter": "2023下半年论文写作第1批",
+    "source_type": "essay"
+  },
+  "2023年下半年论文写作试题（第2批）": {
+    "domain": "kb_essay",
+    "chapter": "2023下半年论文写作第2批",
+    "source_type": "essay"
+  },
+  "2023年下半年论文写作试题（第3批）": {
+    "domain": "kb_essay",
+    "chapter": "2023下半年论文写作第3批",
+    "source_type": "essay"
+  },
+  "2023年下半年论文写作试题（第4批）": {
+    "domain": "kb_essay",
+    "chapter": "2023下半年论文写作第4批",
+    "source_type": "essay"
+  },
+  "2024年上半年论文写作试题（第1批）": {
+    "domain": "kb_essay",
+    "chapter": "2024上半年论文写作第1批",
+    "source_type": "essay"
+  },
+  "2024年上半年论文写作试题（第2批）": {
+    "domain": "kb_essay",
+    "chapter": "2024上半年论文写作第2批",
+    "source_type": "essay"
+  },
+  "2025年上半年论文写作试题（第1批）": {
+    "domain": "kb_essay",
+    "chapter": "2025上半年论文写作第1批",
+    "source_type": "essay"
+  },
+  "2025年上半年论文写作试题（第2批）": {
+    "domain": "kb_essay",
+    "chapter": "2025上半年论文写作第2批",
+    "source_type": "essay"
+  }
+}
